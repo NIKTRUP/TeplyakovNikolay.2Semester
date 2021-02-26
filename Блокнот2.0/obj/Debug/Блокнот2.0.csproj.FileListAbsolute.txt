@@ -1,0 +1,13 @@
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2.0.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2._0.Notepad.resources
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2._0.Properties.Resources.resources
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2.0.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2.0.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\bin\Debug\Блокнот2.0.exe.config
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\bin\Debug\Блокнот2.0.exe
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\bin\Debug\Блокнот2.0.pdb
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2.0.exe
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2.0.pdb
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2._0.AboutForm.resources
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2._0.GoToForm.resources
+C:\Users\nikol\source\repos\Блокнот2.0\Блокнот2.0\obj\Debug\Блокнот2._0.SearchForm.resources
